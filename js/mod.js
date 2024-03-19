@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "The KFC Tree",
 	id: "sysmodsdid1029765456789",
 	author: "MONBUTICLOUD",
 	pointsName: "KFC chicken",
